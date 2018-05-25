@@ -1,6 +1,7 @@
 # TG-restructuring
 My very first project at BG, developed from start to finish with android studio
-Mobile experience
+
+
 THE LOGIN PAGE:
 •	Customer logs in with his preloaded username and password
 •	Customer is redirected to either the MIK welcome page or the ES welcome page based on his login details
@@ -50,6 +51,7 @@ Modules
 13.	ES log status update
 14.	ES log sorting functionality
 15.	ES log grouping functionality
+16. Implementation of automatic login sync to track users who have logged into the app
 
 Database:
 Centralized MySQL database online which synchronizes with the local SQLite databases on the phones of the MIKs and the ES analysts upon connection to the internet
